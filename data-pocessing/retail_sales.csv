@@ -1,4 +1,4 @@
-OrderID,State,City,Product,Category,Quantity,Price,Sales,eligible for AI
+OrderID,State,City,Product,Category,Quantity,Price,Sales,Eligible_For_AI
 1001,Karnataka,Bangalore,Laptop,Electronics,2,55000,110000,yes
 1002,Maharashtra,Mumbai,Phone,Electronics,3,30000,90000,yes
 1003,Telangana,Hyderabad,Headphones,Accessories,5,,10000,no
