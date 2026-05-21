@@ -1,13 +1,13 @@
 OrderID,State,City,Product,Category,Quantity,Price,Sales
 1001,Karnataka,Bangalore,Laptop,Electronics,2,55000,110000
 1002,Maharashtra,Mumbai,Phone,Electronics,3,30000,90000
-1003,Telangana,Hyderabad,Headphones,Accessories,5,2000,10000
+1003,Telangana,Hyderabad,Headphones,Accessories,5,,10000
 1004,Tamil Nadu,Chennai,Monitor,Electronics,2,15000,30000
 1005,Delhi,New Delhi,Keyboard,Accessories,10,1500,15000
 1006,Karnataka,Mysore,Mouse,Accessories,8,700,5600
 1007,West Bengal,Kolkata,Tablet,Electronics,4,25000,100000
-1008,Maharashtra,Pune,Laptop,Electronics,1,60000,60000
-1009,Gujarat,Ahmedabad,Phone,Electronics,2,28000,56000
+1008,Maharashtra,Pune,Laptop,Electronics,1,60000,
+1009,Gujarat,Ahmedabad,Phone,Electronics,2,,
 1010,Rajasthan,Jaipur,Printer,Electronics,3,12000,36000
 1011,Uttar Pradesh,Lucknow,Camera,Electronics,2,45000,90000
 1012,Kerala,Kochi,Speaker,Accessories,6,3500,21000
